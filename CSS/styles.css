@@ -15,7 +15,7 @@ h1{
 h2{
 	margin-top: 0;
 	font-family: 'Montserrat', sans-serif;
-	font-size:15px;
+	font-size:1.5rem;
 	color: #66BFBF;
 	padding-bottom: 0px;
 }
@@ -62,13 +62,13 @@ div.bottom{
 .bottom-cloud{
 	
 	position:absolute;
-	left:200px;
+	left:300px;
 	top: 300px;
 	}
 .top-cloud{
 	position:absolute;
-	right:200px;
-	top: 35px;
+	right:300px;
+	top: 50px;
 }
 a{
 color: #11999E;
